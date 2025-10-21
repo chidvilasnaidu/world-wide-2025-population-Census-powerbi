@@ -68,6 +68,7 @@ This Power BI dashboard provides comprehensive analysis of global population tre
 
 ---
 
-## 🔖 License
-This project is licensed under the MIT License.  
+## Copyright Notice:
+
+📄 Dataset used for educational purposes only. All rights reserved to respective owners 
 
