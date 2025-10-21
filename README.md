@@ -46,12 +46,6 @@ This Power BI dashboard provides comprehensive analysis of global population tre
 - Comparative **country and continent insights**  
 - KPI cards highlighting **growth rates and urbanization trends**  
 
----
-
-## 📂 Project Files
-- `Global_Population_Insights_2025.pbix` – Power BI dashboard file  
-- `population_data_2025.csv` – Dataset used for analysis  
-- `README.md` – Project overview and documentation  
 
 ---
 
